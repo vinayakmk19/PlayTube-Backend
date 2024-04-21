@@ -1,0 +1,20 @@
+{
+  "name": "playtube-backend",
+  "version": "1.0.0",
+  "description": "The backend of the PlayTube App",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "Nodejs",
+    "backend"
+  ],
+  "author": "Vinayak Kamble",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
